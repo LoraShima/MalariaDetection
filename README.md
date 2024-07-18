@@ -1,1 +1,3 @@
 # MalariaDetection
+
+This project explores the potential of deep learning models for automated malaria parasite detection in thin blood smears. It investigates three distinct approaches: a custom Convolutional Neural Network (CNN) architecture, the MobileNet model, and the GoogLeNet model. The study aims to identify the model with the highest accuracy while also evaluating the impact of using augmented datasets versus preprocessed ones on model performance. The research utilizes a diverse dataset of thin blood smear images, covering various staining techniques and parasite densities. Performance metrics such as confusion matrices, accuracy and loss plots, and classification reports are employed for comprehensive evaluation.
